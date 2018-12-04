@@ -17,31 +17,30 @@ ACU作为一个库是很棒，但它太过适用于90年代后期的技术，如
 
 2008年，我们在Ars Electronica获得了一个奖项，并建立了一个名为oF lab的实验室，这个实验室让原本远程工作的我们可以面对面，大部分是第一次见面。这是许多帮助发展了社区的全球会议，实验室，研讨会和开发者大会中的第一个。那一年，我们还在日本YCAM举办了一个oF研讨会，发现了一整个社区来自世界各地的人在使用这个工具。它比我们想象的更加全球化。它令人振奋的同时，也让人感到可怕，我们意思到全世界都有人在用这个工具来谋生。
 
-We've been lucky in these events to be able to work with great institutions such as The Studio for Creative Inquiry, V&A museum, YCAM, Imal, Ars Electronica and Eyebeam, which have helped sponsor events to bring the oF community together.
+我们有幸能在这些活动中与非常棒的机构合作，比如，The Studio for Creative Inquiry、V&A museum、YCAM、Imal、Ars Electronica 和 Eyebeam，这些机构帮助赞助活动将oF社区聚集在一起。
 
-In recent years, we've tried to help grow and expand the community -- folks like Kyle McDonald have helped organize the diverse interests of developers and keep everything focused while Caitlin Morris has produced detailed surveys of the community.  Greg Borenstein and James George helped launch ofxAddons.com, an online repository which helps organize the impressive quantity of addons that the community is creating on a daily basis.  In addition, there are now section leaders for the development of oF, helping grow different parts of the codebase and helping imagine what modern oF looks like.  Finally, there are countless contributors to oF who help with the codebase, documentation, examples, addons and answering questions on the forum.
+近年来，我们一直试图帮助发展和扩大社区——像Kyle McDonald这样的人帮助组织了开发人员的各种利益并保持一切关注，而Caitlin Morris已经制作了详细的社区调查。 Greg Borenstein和James George帮助推出了ofxAddons.com，这是一个在线存储库，可以帮助分类社区每天创建的大量插件。 此外，现在有致力于oF发展的部门领导者们，他们帮助发展代码库的不同部分，并帮助计划oF的发展。最终，有无数的oF贡献者帮助维护代码库、文档、示例、插件，以及回答论坛上的问题。
 
-More than anything, we've tried as hard as we can to create a friendly atmosphere around programming, which can be an unfriendly activity and in some ways isolating.  We preach the idea of art-making as a laboratory, as R&D (Research & Development) for humanity, and oF is one attempt to make a large lab where we can grow and share experiments together.   There's been a big movement for DIY  (Do it Yourself) culture these days, things like Make Magazine and Instructables promoting a culture of sharing through making.  We are big fans of DIWO (Do it With Others) and try to do that as much as we can online and offline.  Somehow, luckily, we've attracted some of the most amazing, helpful, warm-hearted, lovely people to come be a part of this, and if you're not already, we'd like to say **welcome**.
+最重要的是，编程有可能会是一项不太友好的活动，从某种程度上来说是孤独的，但是我们已经尽可能地努力创造一种友好的编程氛围。我们传播将艺术创作作为实验室，作为人类研发的理念，为了建立一个我们可以共同成长和共享实验的大型实验室，oF是一个尝试。 如今，DIY（自己动手）文化已经发生了巨大变化，比如Make Magazine和Instructables通过制作来促进分享文化。我们是DIWO（与其他人合作）的忠实粉丝，并尽可能地线上和线下都做到。不知何故，很幸运地，我们吸引了一些最令人惊讶的、乐于助人的、热心的、可爱的人来参与到其中，如果你还没有，我们想说 **欢迎**。
 
+## 关于此书
 
-## About This Book
+本书非常本着openFrameworks的精神，它是一个社区驱动的事情，它是 **一项正在进行中的工作**。这是对openFrameworks开发者邮件列表的一个建议，该列表将这剔除了，在过去的几个月里，我们一直在抨击此事。
 
-This book, much in the spirit of openFrameworks, is a community driven affair and it's **very much a work in progress**.   It was a suggestion on the openFrameworks developers mailing list which kicked this off and for a the past months we've been hacking away on it.
+几个注意点,
 
-A couple of notes,
+* 我们十分欢迎反馈，我们想知道此书缺少了什么，或者你想要在此书中获得什么。同样，如果你发现有用的东西，我们也很乐意听到它！我们的github仓库处于活跃状态，我们会处理问题和提取请求。
+* 请注意，此书可能存在空白部分。我们试图按照技能水平粗略地列出章节，但由于它是一本集体写的书，它可能会让人觉得有点迷失方向，有些章节是长篇的，有些则是短篇。你可以把它想象成从前到后阅读的书，但它更像是社区的一些简短教程。
 
-* Feedback is very much appreciated and we'd like to know what's missing, or what you'd like to have in here.  Likewise, if you find something helpful, we'd love to hear it, too!  Our github repo is active and we take issues and pull requests.
-* Please note that there are likely gaps here.  We've tried to roughly lay out chapters in order of skill level, but since it's a collectively written book, it can feel a bit disorienting, with some chapters being on the long side, while some are short.  Think of it not as a book you read front to back, but more like a collection of short tutorials from the community.
-
-*Every chapter, unless noted, is licensed: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)*
+*除非另有说明，否则每一章都是许可的: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 
-## Credits
+## 感谢
 
-Countless thanks to Rachel Uwa for organizing this project, Tega Brain for helping edit it, Ishac Bertran and Andy Clymer for directing the design, and Arturo Castro, Christoph Buchner and Michael Hadley for developing the codebase for generating the book.   In addition, the following authors and editors have contributed to this book:  Rui Pereira, Arturo Castro, Brannon Dorsey, Zach Lieberman, Kayla Lewis, Josh Nimoy, Phoenix Perry, Jane Friedhoff, Caitlin Morris, Pierre Proske, Golan Levin, Blair Neal, Michael Hadley, Abraham Avnisan, Christopher Baker, Lukasz Karluk, Omer Shapira, Mimi Son & Elliot Woods (Kimchi and Chips), Eva Schindling, Pierre Thirion, Joel Gethin Lewis, Roy Macdonald, Adam Carlucci, Christoph Buchner, tpltnt as well as countless others who have given feedback, submitted pull requests, offered advice, etc.
+非常感谢Rachel Uwa组织这个项目，Tega Brain帮助编辑它，Ishac Bertran和Andy Clymer指导设计，Arturo Castro，Christoph Buchner和Michael Hadley开发用于此书的代码库。 此外，以下作者和编辑为本书做出了贡献：Rui Pereira, Arturo Castro, Brannon Dorsey, Zach Lieberman, Kayla Lewis, Josh Nimoy, Phoenix Perry, Jane Friedhoff, Caitlin Morris, Pierre Proske, Golan Levin, Blair Neal, Michael Hadley, Abraham Avnisan, Christopher Baker, Lukasz Karluk, Omer Shapira, Mimi Son & Elliot Woods (Kimchi and Chips), Eva Schindling, Pierre Thirion, Joel Gethin Lewis, Roy Macdonald, Adam Carlucci, Christoph Buchner, tpltnt以及无数其他提供反馈，提交合并申请和提供建议等的人们。
 
-I think if there's one motto that openFrameworks (and open source generally) embodies, it is:
+我认为如果openFrameworks（通常是开源的）体现了一个座右铭，那就是：
 
-*together we know more*
+*同心协力，我们可以获得更多*
